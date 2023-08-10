@@ -251,11 +251,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83e4b82844576e7449c1ae45a9b5fa42, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cullAreaRadius: 5
-  activeAreaRadius: 2.5
-  isDetectedPlayer: 0
+  cullAreaRadius: 10
+  activeAreaRadius: 5
   maxIntensity: 100
-  speed: 20
 --- !u!1 &116513553
 GameObject:
   m_ObjectHideFlags: 0
@@ -481,11 +479,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83e4b82844576e7449c1ae45a9b5fa42, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cullAreaRadius: 5
-  activeAreaRadius: 2.5
-  isDetectedPlayer: 0
+  cullAreaRadius: 10
+  activeAreaRadius: 5
   maxIntensity: 100
-  speed: 20
 --- !u!1 &254979538
 GameObject:
   m_ObjectHideFlags: 0
@@ -614,11 +610,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83e4b82844576e7449c1ae45a9b5fa42, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cullAreaRadius: 5
-  activeAreaRadius: 2.5
-  isDetectedPlayer: 0
+  cullAreaRadius: 10
+  activeAreaRadius: 5
   maxIntensity: 100
-  speed: 20
 --- !u!1 &361183972
 GameObject:
   m_ObjectHideFlags: 0
@@ -1056,11 +1050,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83e4b82844576e7449c1ae45a9b5fa42, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cullAreaRadius: 5
-  activeAreaRadius: 2.5
-  isDetectedPlayer: 0
+  cullAreaRadius: 10
+  activeAreaRadius: 5
   maxIntensity: 100
-  speed: 20
 --- !u!1 &513019142
 GameObject:
   m_ObjectHideFlags: 0
@@ -1286,11 +1278,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83e4b82844576e7449c1ae45a9b5fa42, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cullAreaRadius: 5
-  activeAreaRadius: 2.5
-  isDetectedPlayer: 0
+  cullAreaRadius: 10
+  activeAreaRadius: 5
   maxIntensity: 100
-  speed: 20
 --- !u!1 &655565707
 GameObject:
   m_ObjectHideFlags: 0
@@ -1947,11 +1937,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83e4b82844576e7449c1ae45a9b5fa42, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cullAreaRadius: 5
-  activeAreaRadius: 2.5
-  isDetectedPlayer: 0
+  cullAreaRadius: 10
+  activeAreaRadius: 5
   maxIntensity: 100
-  speed: 20
 --- !u!1 &1170442310
 GameObject:
   m_ObjectHideFlags: 0
@@ -2371,11 +2359,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83e4b82844576e7449c1ae45a9b5fa42, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cullAreaRadius: 5
-  activeAreaRadius: 2.5
-  isDetectedPlayer: 0
+  cullAreaRadius: 10
+  activeAreaRadius: 5
   maxIntensity: 100
-  speed: 20
 --- !u!1 &1488000182
 GameObject:
   m_ObjectHideFlags: 0
@@ -2633,11 +2619,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83e4b82844576e7449c1ae45a9b5fa42, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cullAreaRadius: 5
-  activeAreaRadius: 2.5
-  isDetectedPlayer: 0
+  cullAreaRadius: 10
+  activeAreaRadius: 5
   maxIntensity: 100
-  speed: 20
 --- !u!1001 &1753332505
 PrefabInstance:
   m_ObjectHideFlags: 0
